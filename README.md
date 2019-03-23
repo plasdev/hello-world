@@ -1,3 +1,2 @@
-# hello-world
-Starter
-Working on getting familiar with github!  Planning to make my first round of changes.
+# Main Page
+Creating a site to play around with Github and bootstrap
